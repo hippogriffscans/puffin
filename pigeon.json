@@ -1,26 +1,17 @@
-
 {
   "title": "UORIR",
   "description": "UORIR is a very long epic fantasy webcomic, in the style of Lord of the Rings or Baldur's Gate.",
-  "artist": "Rtoko Kui",
+  "artist": "Ryoko Kui",
   "author": "Ryoko Kui",
   "cover": "",
   "chapters": {
     "1": {
       "title": "Release #1",
       "volume": "",
+      "last_updated": "1670022000",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/1WQ7M4c/"
-      },
-      "last_updated": "1670022000"
-    },
-    "1": {
-      "title": "Release #2",
-      "volume": "",
-      "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/1K7KHGz/"
-      },
-      "last_updated": "1670022000"
+      }
     }
   }
 }
