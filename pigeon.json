@@ -10,7 +10,15 @@
       "volume": "",
       "last_updated": "1670022000",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/1WQ7M4c/"
+        "Hippogriff Scans": "/proxy/api/imgur/chapter/1WQ7M4c/"
+      }
+    },
+    "2": {
+      "title": "Release #2",
+      "volume": "",
+      "last_updated": "1675709019",
+      "groups": {
+        "Hippogriff Scans": "/proxy/api/imgur/chapter/1WQ7M4c"
       }
     }
   }
